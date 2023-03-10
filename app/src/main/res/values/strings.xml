@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="Email">edtemail</string>
+    <string name="edtemail">Email</string>
+    <string name="edtname">Name</string>
+    <string name="edtpassword">Password</string>
+</resources>
